@@ -6,7 +6,7 @@
 % result
 
 clear
-cd('C:\Users\kuper\Desktop\Covid_study_2020_06_21\00_Submission_Royal_Society_Open_Science\Analysis_final')
+cd('')
 load('data_within_v7.mat')
 
 %% Create the variables
