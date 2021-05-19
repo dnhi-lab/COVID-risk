@@ -2,7 +2,7 @@
 % This is a script for the replication of our COVID study
 
 clear
-cd('C:\Users\kuper\Desktop\Covid_study_2020_06_21\00_Submission_Royal_Society_Open_Science\Replication')
+cd('')
 load('data_between_v7.mat')
 
 %% Create the variables
